@@ -1,4 +1,8 @@
-function teste2() {
+function teste2(data) {
   const test = 123;
-  return test;  
+  return test + data;  
+}
+
+function blabla() {
+  return 0;
 }
